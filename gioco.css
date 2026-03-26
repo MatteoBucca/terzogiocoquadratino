@@ -1,5 +1,5 @@
 body {
-    background-color: #FFA500; /* Arancione come in foto */
+    background-color: #FFA500; 
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -12,15 +12,14 @@ body {
     text-align: center;
 }
 
-/* Stile del Canvas */
 canvas {
-    background-color: #F1F1F1; /* Grigio chiaro */
+    background-color: #F1F1F1; 
     border: 2px solid #d3d3d3;
     display: block;
     margin: 0 auto 20px auto;
 }
 
-/* Contenitore dei bottoni */
+
 .controls {
     display: flex;
     flex-direction: column;
